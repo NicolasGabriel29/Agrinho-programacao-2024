@@ -14,7 +14,7 @@
 
 <body>
     <header class="cabeçalho">
-        <img class="cabeçalho-logotipo" src="NicolasGabriel/Agrinho-programacao-2024/dron.jpg" alt="robô escrevendo em uma lousa">
+        <img class="cabeçalho-logotipo" src="drone.jpg" alt="drone">
         <h1 class="cabeçalho-título">Drone</h1>
         <ul class="cabeçalho-lista">
             <li class="cabeçalho-lista-item1">Missão de Nossa Escola</li>
